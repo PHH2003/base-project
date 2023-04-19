@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$MkXczECEUGqIDARYQkio9.pp2tXe4qoichg/xeniQxR/mMdLbN5b6",
+      "Name": "admin",
+      "confirm": "132465",
+      "id": 1
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "$2a$10$NM25d3/6NM66xSCTPFS0K.sI.Px94Mbi/GiX8Cn83YnolRreQRAN6",
+      "Name": "user",
+      "confirm": "123456",
+      "id": 2
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$1IfJVMzDYcaETGFJZvk/5.9Uq2DoY2uwSGgcFWkLzR5d/1dXs0zfu",
+      "Name": "admin1",
+      "confirm": "123456",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "name": "Icer update",
+      "thuonghieu": "mỹ",
+      "description": "dhjhkhhhj",
+      "price": "649874965",
+      "xuatxu": "Trung Quốc",
+      "id": 3
+    },
+    {
+      "name": "Acer",
+      "thuonghieu": "acer",
+      "description": "đẹp. chiến",
+      "price": "15648797",
+      "xuatxu": "Trung Quốc",
+      "id": 4
+    },
+    {
+      "name": "DELL 1",
+      "thuonghieu": "DELL",
+      "description": "description 1",
+      "price": "1.000.000",
+      "xuatxu": "Việt Nam",
+      "id": 5
+    }
+  ]
+}
